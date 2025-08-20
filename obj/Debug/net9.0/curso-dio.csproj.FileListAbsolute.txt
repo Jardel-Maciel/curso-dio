@@ -1,0 +1,15 @@
+D:\.Net\curso-.Net\curso-dio\bin\Debug\net9.0\curso-dio.exe
+D:\.Net\curso-.Net\curso-dio\bin\Debug\net9.0\curso-dio.deps.json
+D:\.Net\curso-.Net\curso-dio\bin\Debug\net9.0\curso-dio.runtimeconfig.json
+D:\.Net\curso-.Net\curso-dio\bin\Debug\net9.0\curso-dio.dll
+D:\.Net\curso-.Net\curso-dio\bin\Debug\net9.0\curso-dio.pdb
+D:\.Net\curso-.Net\curso-dio\obj\Debug\net9.0\curso-dio.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\curso-.Net\curso-dio\obj\Debug\net9.0\curso-dio.AssemblyInfoInputs.cache
+D:\.Net\curso-.Net\curso-dio\obj\Debug\net9.0\curso-dio.AssemblyInfo.cs
+D:\.Net\curso-.Net\curso-dio\obj\Debug\net9.0\curso-dio.csproj.CoreCompileInputs.cache
+D:\.Net\curso-.Net\curso-dio\obj\Debug\net9.0\curso-dio.sourcelink.json
+D:\.Net\curso-.Net\curso-dio\obj\Debug\net9.0\curso-dio.dll
+D:\.Net\curso-.Net\curso-dio\obj\Debug\net9.0\refint\curso-dio.dll
+D:\.Net\curso-.Net\curso-dio\obj\Debug\net9.0\curso-dio.pdb
+D:\.Net\curso-.Net\curso-dio\obj\Debug\net9.0\curso-dio.genruntimeconfig.cache
+D:\.Net\curso-.Net\curso-dio\obj\Debug\net9.0\ref\curso-dio.dll
