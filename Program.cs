@@ -2,5 +2,6 @@
 
 Pessoa p1 = new Pessoa();
 p1.Nome = "jardel";
+p1.Sobrenome = "Maciel";
 p1.Idade = 29; //sinal de = equivale a set
 p1.Apresentar();

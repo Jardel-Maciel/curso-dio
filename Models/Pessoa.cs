@@ -7,13 +7,12 @@ namespace curso_dio.Models
 {
     public class Pessoa
     {
+        private int _idade;
         private string _nome; //Campo
         public string Nome //toda propriedade contem GET e SET ou uma das duas
         {
-            get
-            {
-                return _nome.ToUpper();
-            }
+            get => _nome.ToUpper();
+            
 
             set
             {
@@ -25,11 +24,27 @@ namespace curso_dio.Models
             }
 
         }
-        public int Idade { get; set; }
+        
+        public string Sobrenome { get; set; }
+        public string NomeCompleto => $"{Nome} {Sobrenome}".ToUpper();
+        public int Idade
+        {
+            get => _idade;
+
+            set
+            {
+                if (value < 0)
+                {
+                    throw new ArgumentException("A Idade não pode ser menor que zero");
+                }
+                _idade = value;
+            }
+
+        }
 
         public void Apresentar()
         {
-            Console.WriteLine($"Nome {Nome}, Idade {Idade}");
+            Console.WriteLine($"Nome {NomeCompleto}, Idade {Idade}");
         }
     }
 }
