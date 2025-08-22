@@ -7,6 +7,19 @@ namespace curso_dio.Models
 {
     public class Pessoa
     {
+
+        public Pessoa()
+        {
+
+        }
+        public Pessoa(string nome, string sobrenome)
+        {
+            Nome = nome;
+            Sobrenome = sobrenome;
+        }
+
+
+
         private int _idade;
         private string _nome; //Campo
         public string Nome //toda propriedade contem GET e SET ou uma das duas
